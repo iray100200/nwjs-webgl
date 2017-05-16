@@ -6,7 +6,7 @@
         "name": "Raymond"
     },
     "dependencies": {
-        "three": "~0.85.2"
+        "three": "0.85.2"
     },
     "window": {
 
